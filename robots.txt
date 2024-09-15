@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://verocarm.github.io/sitemap.html.gz
+Sitemap: https://verocarm.github.io/app/sitemap.html.gz
+Sitemap: https://verocarm.github.io/assets/sitemap.html.gz
+Sitemap: https://verocarm.github.io/css/sitemap.html.gz
+Sitemap: https://verocarm.github.io/includes/sitemap.html.gz
+Sitemap: https://verocarm.github.io/item/sitemap.html.gz
+Sitemap: https://verocarm.github.io/src/sitemap.html.gz
